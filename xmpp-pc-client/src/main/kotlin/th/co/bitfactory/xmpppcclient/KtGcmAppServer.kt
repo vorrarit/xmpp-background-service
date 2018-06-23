@@ -1,4 +1,4 @@
-package th.co.bitfactory.th.co.bitfactory.xmpppcclient
+package th.co.bitfactory.xmpppcclient
 
 import com.google.gson.GsonBuilder
 import com.google.gson.JsonParser

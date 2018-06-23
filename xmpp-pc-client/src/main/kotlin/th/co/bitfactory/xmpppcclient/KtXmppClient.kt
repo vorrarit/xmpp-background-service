@@ -1,4 +1,4 @@
-package th.co.bitfactory.th.co.bitfactory.xmpppcclient
+package th.co.bitfactory.xmpppcclient
 
 import de.measite.minidns.util.InetAddressUtil
 import org.jivesoftware.smack.*
